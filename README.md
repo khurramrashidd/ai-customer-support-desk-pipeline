@@ -23,7 +23,10 @@ Built entirely in Python, this project features a fully interactive web interfac
 
 ## 📸 Dashboard Preview
 
-> **💡 Note to Self:** *Take a screenshot of your Gradio app running in Colab and upload it to your GitHub repository. Replace this text with the image link, like this: `![App Preview](link_to_image.png)`*
+<img width="1678" height="561" alt="image" src="https://github.com/user-attachments/assets/dc38e8f8-7d3f-4b4b-b00a-b0d453a0d5c2" />
+<img width="1549" height="623" alt="image" src="https://github.com/user-attachments/assets/51d10c7e-1426-4487-a1c1-d476452ee2f3" />
+
+
 
 ## 🚀 How It Works (The Pipeline)
 
